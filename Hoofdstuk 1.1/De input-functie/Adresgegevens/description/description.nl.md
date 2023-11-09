@@ -19,7 +19,7 @@ Je adres is: "adres"
 
 ## Tip!
 start met het aanmaken van een variabele voor naam 
-* naam = intput("Voer je naam in:" )
+* naam = input("Voer je naam in:" )
 
 hierna kun je de variabele printen met de opdracht
 * print(naam)
