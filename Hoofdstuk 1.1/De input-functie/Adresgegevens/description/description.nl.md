@@ -21,8 +21,9 @@ Voer je adres in:
 
 ## Uitvoer
 ```
-Voer je naam in: "jouw naam"
-Hallo, mijn naam is "jouw adres"
+Dag "naam"
+Je adres is: "adres"
+
 ```
 
 ## Tip!
