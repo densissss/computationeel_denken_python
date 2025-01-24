@@ -9,12 +9,10 @@
       "nl": "Afronden tot X Cijfers - Brandstofverbruik"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "access": "public",
   "internals": {
-    "token": "VsIi_S9BnCrhGPeI8nUu_DZJtXYBgu4tdTIC7hTDSQaTKKV3C5evgHHf-BZTQVPm",
+    "token": "bHbAY_6GCfMcF2E8NNnFkpr29DMg548kyFGSSaKun5_8ibbDiSJYs9CrI8YStf6M",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
