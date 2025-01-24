@@ -9,12 +9,10 @@
       "nl": "Concateneren - Stappenteller"
     }
   },
-  "labels": [
-
-  ],
+  "labels": [],
   "access": "public",
   "internals": {
-    "token": "_6v2iU-4pzyT6ik6VvYUujgqnP5RJPnwIfAJUtsCN3ZJtPiQY27ah2WQnHzWgAVa",
+    "token": "4Hv2ygqx76ja5A6rJm6fzUn3AUWqPFuGIzDr4TBpqvpircs5nIGsWyWruk_ygFdc",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
